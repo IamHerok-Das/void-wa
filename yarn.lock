@@ -65,8 +65,9 @@
     strip-json-comments "^3.1.1"
 
 "@hazmi35/eslint-config@hazmi35/eslint-config":
-  version "4.0.0"
-  resolved "https://codeload.github.com/hazmi35/eslint-config/tar.gz/424b81fc1773d156f25bf4600b72114bb091e3db"
+  version "14.0.1"
+  uid "6eb4e764a8e88bcf2df998b07d112857e86d28d8"
+  resolved "https://codeload.github.com/hazmi35/eslint-config/tar.gz/6eb4e764a8e88bcf2df998b07d112857e86d28d8"
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
