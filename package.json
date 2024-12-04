@@ -44,6 +44,6 @@
         "mongoose": "^5.12.11",
         "socket.io": "^4.1.2",
         "superagent": "^6.1.0",
-        "winston": "^3.3.3"
+        "winston": "^3.14.2"
     }
 }
